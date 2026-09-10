@@ -30,6 +30,14 @@ present and intentional with the time you have.
 - Liquid Glass design system (`glassEffect`, `GlassEffectContainer`)
 - Custom `Shape` drawing, `TimelineView`, `AngularGradient`, and animated backgrounds
 
+## Running it
+
+Requires Xcode 16 or later.
+
+1. Clone the repo
+2. Open `Still Here.xcodeproj`
+3. Select an iPhone simulator and press Run (⌘R)
+
 ## Author
 
 Built by Biorni Hasmegaj as a first native iOS project — designed, built, and shipped solo.
