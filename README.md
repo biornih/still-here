@@ -1,9 +1,11 @@
-![Still Here Screenshots 1](IMG_1016.PNG)
-![Still Here Screenshots 2](IMG_1017.PNG)
-![Still Here Screenshots 3](IMG_1018.PNG)
-![Still Here Screenshots 4](IMG_1019.PNG)
-
 # Still Here
+
+<p align="center">
+  <img src="IMG_1016.PNG" width="200" alt="Today view">
+  <img src="IMG_1017.PNG" width="200" alt="Month view">
+  <img src="IMG_1018.PNG" width="200" alt="Year view">
+  <img src="IMG_1019.PNG" width="200" alt="Settings">
+</p>
 
 An iOS time-awareness app that helps you notice time passing — gently.
 
