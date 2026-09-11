@@ -7,7 +7,7 @@
   <img src="IMG_1019.PNG" width="200" alt="Settings">
 </p>
 
-An iOS time-awareness app that helps you notice time passing — gently.
+An iOS time-awareness app that helps you notice time passing, gently.
 
 Built with SwiftUI. *Still Here* visualizes your day, month, and year so the
 passage of time feels grounding rather than stressful — a quiet reminder to be
@@ -40,4 +40,4 @@ Requires Xcode 16 or later.
 
 ## Author
 
-Built by Biorni Hasmegaj as a first native iOS project — designed, built, and shipped solo.
+Built by Biorni Hasmegaj as a first native iOS project, designed, built, and shipped solo.
